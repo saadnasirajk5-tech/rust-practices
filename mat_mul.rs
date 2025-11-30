@@ -1,3 +1,5 @@
+// Matrix Multiplication by Hand:** Multiply two 3×3 matrices on paper without a calculator. Understand every step.
+
 
 fn main() {
     let matA = [
